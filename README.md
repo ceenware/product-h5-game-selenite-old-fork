@@ -1,5 +1,8 @@
 ## Selenite
 The better unblocked games website.
+
+Published Page: https://ceenware.github.io/product-h5-game-selenite-old-fork/
+
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/selenite-cc/selenite)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/selenite-cc/selenite)
